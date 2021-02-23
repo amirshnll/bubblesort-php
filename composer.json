@@ -1,0 +1,14 @@
+{
+    "name": "amirshnll/bubblesort-php",
+    "description": "bubble sort algorithm in php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Shokri",
+            "email": "amirsh.nll@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
